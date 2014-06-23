@@ -8,7 +8,7 @@ In no particular order, these are the hacks that were done:
 - Custom keyboard. ( https://github.com/cescofry/FriendsKeyboard/tree/master )
 - Image filter.
 - Tube status today extension.
-- Notification centre widget.
+- Notification centre widget. (https://github.com/markbrindle/NextiOSMeetup)
 - Gif-of-the-day ( https://github.com/sugendran/nslondon-giphy-extension )
 
 ###HealthKit
@@ -20,6 +20,7 @@ In no particular order, these are the hacks that were done:
 - Network library ( https://github.com/michaelarmstrong/Brisk/ )
 
 ###CloudKit
+
 - Instagram clone
 
 ###Local Authentication
