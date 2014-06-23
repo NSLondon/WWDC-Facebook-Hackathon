@@ -20,7 +20,7 @@ In no particular order, these are the hacks that were done:
 - Network library ( https://github.com/michaelarmstrong/Brisk/ )
 
 ###CloudKit
-- Instagram clone
+- Instagram clone ( https://github.com/DanielTomlinson/FacebookD8-PhotoLinkr )
 
 ###Local Authentication
 
