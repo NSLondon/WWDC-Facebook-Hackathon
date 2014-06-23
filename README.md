@@ -4,28 +4,28 @@ WWDC-Facebook-Hackathon
 links and material produced during the very awesome hackathon at FB HQ
 
 In no particular order, these are the hacks that were done:
-##Extensions
+###Extensions
 - Custom keyboard. ( https://github.com/cescofry/FriendsKeyboard/tree/master )
 - Image filter.
 - Tube status today extension.
 - Notification centre widget.
 - Gif-of-the-day ( https://github.com/sugendran/nslondon-giphy-extension )
 
-##HealthKit
+###HealthKit
 - Chrolide^WCaffeine levels.
 - Sleep data based on time-not-walking.
 
-##Swift
+###Swift
 - Promises ( https://github.com/coneko/promise )
 - Network library ( https://github.com/michaelarmstrong/Brisk/ )
 
-##CloudKit
+###CloudKit
 - Instagram clone
 
-##Local Authentication
+###Local Authentication
 
 - Secret photos ( https://github.com/tomhut/secretPhotos/ )
 - Unlock keychain items
 
-##SceneKit
+###SceneKit
 - Marble run game
