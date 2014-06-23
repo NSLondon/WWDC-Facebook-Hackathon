@@ -21,7 +21,7 @@ In no particular order, these are the hacks that were done:
 
 ###CloudKit
 
-- Instagram clone
+- Instagram clone ( https://github.com/DanielTomlinson/FacebookD8-PhotoLinkr )
 
 ###Local Authentication
 
